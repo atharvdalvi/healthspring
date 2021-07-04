@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76940475987",
+    "project_id": "healthspring-41326",
+    "storage_bucket": "healthspring-41326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76940475987:android:686d9ebfac48130022d0a6",
+        "android_client_info": {
+          "package_name": "com.yashwant.healthspring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76940475987-4ck89h59t1a6d1ikj885477gje3gs8or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwUcF01aZW_P7gud3n99W93HfIuIo8y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76940475987-4ck89h59t1a6d1ikj885477gje3gs8or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
